@@ -5,7 +5,7 @@ title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "张建宇"
 # jobtitle: "求职意向" #可空不显示
-photo: "assets/img/photo.jpg" #照片可空，不显示
+photo: "assets/img/zjy_photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -112,8 +112,10 @@ main: #简历主要内容，
   name: "荣誉奖项"
   content: 
   - title: 全国大学生智能机电系统创新设计大赛
+    sub: 三等奖
     duration: 2019年12月
   - title: 江苏省机器人大赛
+    sub: 二等奖
     duration: 2020年11月
 
 
