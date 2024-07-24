@@ -108,6 +108,15 @@ main: #简历主要内容，
   #   sub: Creator and maintainer.
    #可继续添加更多内容
 
+- type: others
+  name: "荣誉奖项"
+  content: 
+  - title: 全国大学生智能机电系统创新设计大赛
+    duration: 2019年12月
+  - title: 江苏省机器人大赛
+    duration: 2020年11月
+
+
 #others 其他简略内容(列表)
 # others: #其他列表显示
 # - type: others #ID可以为空
