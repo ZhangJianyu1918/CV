@@ -4,7 +4,7 @@
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "张建宇"
-jobtitle: "求职意向" #可空不显示
+# jobtitle: "求职意向" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -47,9 +47,9 @@ main: #简历主要内容，
   - title: 熟悉使用常用数据结构(链表、栈、队列、二叉树等)，熟练使用排序、回湖、贪心、动态规划等算法。
   - title: 熟悉常见的设计模式(单例设计模式、工厂设计模式)等。
   - title: 熟悉 OSI 七层模型和 TCP/IP 四层体系分层结构，掌握常见的网络协议，如 TCP、UDP 等。
-  - title: 熟练使用, MySOL了解MySOL索引、事务、存储引擎、锁机制。
-  - title: 了解Spring、SpringMVC、Mybatis、SpringBoot等核心框架, 可以根据需求快速搭建项目, 并阅读过核心源码(bean的生命周期, SpringBoot自动装备、启动流程)
-  - title: 熟悉 OSI 七层模型和 TCP/IP 四层体系分层结构，掌握常见的网络协议，如 TCP、UDP 等。
+  - title: 熟练使用, MySOL了解MySQL索引、事务、存储引擎、锁机制。
+  - title: 了解Spring、SpringMVC、Mybatis、SpringBoot等核心框架, 可以根据需求快速搭建项目, 并阅读过核心源码(bean的生命周期, SpringBoot自动装备、启动流程)。
+  - title: 熟悉操作系统的进程通信、死锁、内存管理等知识。
   - title: 了解 JVM, 对GC算法、垃圾回收器, 类加载机制有基础的理解。
     # items: #itmems 可以小块的方式显示
     # - 汉语
