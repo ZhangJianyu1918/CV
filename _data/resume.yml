@@ -83,14 +83,14 @@ main: #简历主要内容，
   content:
   - title: 苍穹外卖
     duration: 2023年12月 - 2024年1月
-    detail: 项目和工作介绍，项目总结.
+    # detail: 项目和工作介绍，项目总结.
     sub: 后端开发
     summary: 该项目是从开源网站中获取到的练习项目, 是专为校内餐饮商户定制的一款软件产品, 包括系统管理后台和移动端应用两部分。其中系统管理后台主要提供给商户内部员工, 用于对餐厅菜品、套餐等信息进行维护。移动端主要提供给消费者使用, 可以在线预览菜品、添加购物车、下单等。
     skills: SprintBoot, SpringCache, Mybatis, Redis, MySQL, Maven, Nginx, Git
-    adventages: 
-      list: 
-      - MySQL 读写分离, 减轻数据库压力
-      - 使用SpringCache和Redis对数据进行多级缓存, 提高查询效率
+  - title: 项目亮点
+    list: 
+    - MySQL 读写分离, 减轻数据库压力
+    - 使用SpringCache和Redis对数据进行多级缓存, 提高查询效率
   # - title: Project Name
   #   summary: Projects' introduction or summary
   #   detail:
@@ -99,27 +99,27 @@ main: #简历主要内容，
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
-- type: 
- name: '其他'
- content: #选择需要的格式
- - 单行文字
- - 如果有可以继续添加
+# others: #其他列表显示
+# - type: others #ID可以为空
+#   name: '荣誉奖项'
+#   content: #选择需要的格式
+#   - 单行文字
+#   - title: "加粗:"
+#     text: "列表项二"
+#   - title: "兴趣:"
+#     # items: #单行列表
+#     # - 睡觉
+#     # - 吃饭
+#     # - coding
+#   - title: 列表
+#     list:
+#     - 第一项
+#     - 第二项
+# - type: 
+#  name: '其他'
+#  content: #选择需要的格式
+#  - 单行文字
+#  - 如果有可以继续添加
 
 # #footer 脚注，打印版和web版不同不显示    
 # footer: #脚注多组
